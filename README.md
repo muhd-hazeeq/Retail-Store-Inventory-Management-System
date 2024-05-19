@@ -1,4 +1,4 @@
-Authors: Muhammad Hazeeq Aiman bin Zainal 'Abiddin 
+Authors: Muhammad Hazeeq Aiman bin Zainal 'Abiddin \n
 Title: Retail Store Inventory Management System 
 Purpose: To design and implement an inventory management system using object-oriented programming 
 Scenario:  
