@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=custList
+comment10.target=java.lang.String\ custIDErrorHandling(java.util.ArrayList)
+comment11.params=
+comment11.target=boolean\ repeatProcess()
+comment2.params=inv
+comment2.target=boolean\ manageProducts(Inventory)
+comment3.params=
+comment3.target=boolean\ manageCustomers()
+comment4.params=inv
+comment4.target=boolean\ manageSales(Inventory)
+comment5.params=inv
+comment5.target=boolean\ generateReports(Inventory)
+comment6.params=
+comment6.target=java.util.ArrayList\ readFileProd()
+comment7.params=
+comment7.target=java.util.ArrayList\ readFileCust()
+comment8.params=
+comment8.target=java.util.ArrayList\ readFileSales()
+comment9.params=inv\ outOfStock
+comment9.target=java.lang.String\ prodIDErrorHandling(Inventory,\ boolean)
+numComments=12

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment10.params=custList\ keyID
+comment10.target=void\ generateSalesReportCust(java.util.ArrayList,\ java.lang.String)
+comment11.params=salesList\ keyDate
+comment11.target=void\ generateSalesReportDate(java.util.ArrayList,\ java.lang.String)
+comment12.params=salesList\ keyMonth
+comment12.target=void\ generateRevenueReport(java.util.ArrayList,\ java.lang.String)
+comment2.params=pi
+comment2.target=Inventory(java.util.ArrayList)
+comment3.params=pi
+comment3.target=void\ setProdInventory(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ getProdInventory()
+comment5.params=prodID\ prodName\ price\ qty
+comment5.target=void\ addProduct(java.lang.String,\ java.lang.String,\ double,\ int)
+comment6.params=keyID\ prodID\ prodName\ price\ qty
+comment6.target=void\ updateProduct(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment7.params=cust\ prodSoldList\ qtySoldList\ dateTime\ discount
+comment7.target=void\ handleSales(Customer,\ java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String,\ double)
+comment8.params=p
+comment8.target=java.lang.String\ isLowOnStock(Product)
+comment9.params=
+comment9.target=java.lang.String\ generateInventoryReport()
+numComments=13
